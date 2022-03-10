@@ -1101,7 +1101,7 @@ left: -10px;
     text-align: center;
     color: #fff;
     border-bottom: 4px solid var(--main-color);
-    transition: transform .3s;
+    transition: transform .1s;
 }
 .price .container .holder .box:hover{
     transform: translateY(-10px);
