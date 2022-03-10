@@ -424,6 +424,11 @@ border-color: transparent transparent #fff transparent;
     padding: 30px 20px;
     color:#333;
 }
+    @media (max-width:575px) {
+    .intro{
+        display: none;
+    }
+}
 }
 
 
